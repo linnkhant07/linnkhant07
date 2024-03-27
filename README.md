@@ -8,3 +8,10 @@
 
 ## Skills
 * C++
+* NodeJS
+* Html, CSS
+* MongoDB
+* Python
+* MatLab
+
+  
