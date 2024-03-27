@@ -1,4 +1,4 @@
-### Hi there, I am Linn 👋
+### Hi there, I am Linn Khant Thuya👋
 
 - 🔭 I’m currently working on building an SQL-like database in C++.
 - 🌱 I’m currently taking a class for Data Structures in C++.
