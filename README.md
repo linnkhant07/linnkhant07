@@ -6,15 +6,9 @@
 - 🤔 I’m looking for help with landing an internship!
 - 📫 How to reach me: linn.thuya247@gmail.com
 
-## Skills
-* C++
-* NodeJS
-* Html, CSS
-* MongoDB
-* Python
-* MatLab
+## Work Examples
 
-  
+<img src="https://github.com/linnkhant07/linnkhant07/blob/main/WanderOverview.gif" width="256" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +18,3 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs,js,html,css,python,arduino,matlab,mongodb)](https://skillicons.dev)
-
-## Work Examples
-
-<img src="https://github.com/linnkhant07/linnkhant07/blob/main/WanderOverview.gif" width="256" />
