@@ -4,7 +4,7 @@
 - 🌱 I’m currently taking a class for Data Structures in C++.
 - 👯 I’m looking to collaborate on any interesting project!
 - 🤔 I’m looking for help with landing an internship!
-- 📫 How to reach me: https://www.linkedin.com/in/linn-khant-thuya-b82155269/
+- 📫 How to reach me: linn.thuya247@gmail.com
 
 ## Skills
 * C++
