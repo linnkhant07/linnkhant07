@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on any interesting project!
 - 🤔 I’m looking for help with landing an internship!
 - 📫 How to reach me: linn.thuya247@gmail.com
-- Visit my Portfolio website: <a href="https://linnkhant07.github.io" target="blank">
+- Visit my Portfolio website: <a href="https://linnkhant07.github.io" target="blank">Linn's Portfolio</a>
 
   
 <h3 align="left">Connect with me:</h3>
